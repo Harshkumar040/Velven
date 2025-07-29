@@ -22,7 +22,7 @@ const Footer = () => {
                 Contact Us
               </h5>
               <p style={{ fontFamily: "'Bodoni Moda', serif", fontWeight: 400, fontSize: "0.9rem" }}>
-                <strong>Phone:</strong> <a href="tel:+918847463046" className="text-white" style={{ textDecoration: 'none' }}>8847463046</a>
+                <strong>Phone:</strong> <a href="tel:+918847463046" className="text-white" style={{ textDecoration: 'none' }}>+91 12345678</a>
               </p>
               <p style={{ fontFamily: "'Bodoni Moda', serif", fontWeight: 400, fontSize: "0.9rem" }}>
                 <strong>Email:</strong> <a href="mailto:harshkumar040304@gmail.com" className="text-white" style={{ textDecoration: 'none' }}>harshkumar040304@gmail.com</a>
